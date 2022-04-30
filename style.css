@@ -1,0 +1,46 @@
+@font-face {
+    font-family: 'Source Code Pro';
+    font-style: normal;
+    font-weight: 400;
+    font-display: swap;
+    src: url(https://fonts.gstatic.com/s/sourcecodepro/v21/HI_diYsKILxRpg3hIP6sJ7fM7PqPMcMnZFqUwX28DMyQtMlrTA.woff2) format('woff2');
+    unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+  }
+
+  body{
+      background-color: rgb(231, 163, 75);
+      font-family: 'Source Code Pro';
+  }
+
+  h1{
+      color: black;
+      font-size: 70px;
+      text-align: center;
+      align-items: center;
+  }
+
+  #newmission{
+      color: red;
+      font-size: 50px;
+      text-align: center;
+  }
+
+  p{
+    text-align: justify;
+    font-size: 20px;
+  }
+
+  button{
+      align-items: center;
+      font-size: 25px;
+
+  }
+
+  img{
+      height: 180px;
+      width: 180px;
+      position:absolute;
+      top: 20px;
+     
+}
+  }
